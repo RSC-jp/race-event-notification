@@ -18,7 +18,7 @@ const firebaseConfig = {
 };
 
 // ③ Firebase「プロジェクトの設定 > Cloud Messaging > ウェブプッシュ証明書」の公開鍵
-const VAPID_KEY = 'YOUR_VAPID_PUBLIC_KEY';
+const VAPID_KEY = 'BD92yY9hxXtPBK_2W8mj3cv77LXBoj8KEkV3BQ_vU6Wxy97ax0vHfz30oBlUQnjOFSqNARe7tl7vTgt2vHi-VBs';
 
 /* ============================================== */
 
